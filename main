@@ -16,5 +16,14 @@
             <a href="https://osu.ppy.sh/home" class="btn btn-primary">Go play Osu!</a>
         </div>
     </div>
+    <div class="card" style="width: 600px; padding: auto; margin: 10px auto;">
+        <div class="card-body">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/p3cWTxvyKpA?si=ABxFTuY-tCunVYTZ"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+        </div>
+    </div>
 </body>
+
 </html>

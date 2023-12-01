@@ -1,3 +1,9 @@
 body {
-    background-color: white;
+    background-image: url('OsuBackground.png');
+    background-repeat: no-repeat;
+    max-width: 1920px;
+    max-height: 1080px;
+}
+card-body {
+    margin: 0 auto;
 }
